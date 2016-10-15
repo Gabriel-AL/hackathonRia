@@ -1,4 +1,4 @@
-<?php
+git clone <?php
 /**
  * Created by PhpStorm.
  * User: matthieu
